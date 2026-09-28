@@ -1,2 +1,2 @@
 # gym-log
-Personal gym web app
+Personal gym web app for Gregor
